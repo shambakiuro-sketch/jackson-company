@@ -9,7 +9,7 @@ A professional, responsive website for Jackson Construction built with Next.js.
 ✅ **Contact Form** - Easy-to-use form for client inquiries
 ✅ **Fast Performance** - Built with Next.js for optimal speed
 ✅ **Easy to Deploy** - One-click deployment to Vercel
-✅ **SEO Friendly** - Optimized for search engines
+✅ **SEO Friendly** - Optimized for search engines.
 
 ## Quick Start
 
