@@ -23,8 +23,8 @@ export default function Navigation() {
             <a onClick={() => scrollToSection('services')}>Services</a>
           </li>
           <li>
-            <a onClick={() => scrollToSection('portfolio')}>Portfolio</a>
-          </li>
+  <a onClick={() => scrollToSection('process')}>Process</a>
+</li>
           <li>
             <a onClick={() => scrollToSection('contact')}>Contact</a>
           </li>
